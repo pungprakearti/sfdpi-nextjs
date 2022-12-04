@@ -2,7 +2,7 @@
 
 This repo is for sfdpi.com
 
-Content is loaded from WordPress.com as a headless CMS
+Content is fetched from a headless CMS
 
 ## NextJS Boilerplate
 
